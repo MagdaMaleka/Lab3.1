@@ -3,7 +3,7 @@ import java.util.StringTokenizer;
 public class TokenTester {
     public static void main(String[] args) {
 
-        Object o = new Object();
+        //Object o = new Object();
 
         StringTokenizer st1, st2;
 
